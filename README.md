@@ -8,6 +8,10 @@ Wieder das ich besser Programmieren kann am Ende der LP7.
 Was wäre ein geeignetes Projekt für diese LP6? 
 Ein Adressen Manager.
 
-# 06.08.2024
+# 25.10.2024
 - [ ] Adressen Manager aufsetzen / Klassen herstellen.
 - [ ] Adressen Manager Logic anfangen.
+
+# 01.11.202
+- [ ] Adressen Manager Logic fortführen.
+- [ ] Adressen Manager weitere Funktionen
