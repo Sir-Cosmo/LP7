@@ -9,9 +9,20 @@ Was wäre ein geeignetes Projekt für diese LP6?
 Ein Adressen Manager.
 
 # 25.10.2024
-- [ ] Adressen Manager aufsetzen / Klassen herstellen.
-- [ ] Adressen Manager Logic anfangen.
+- [X] Adressen Manager aufsetzen / Klassen herstellen.
+- [X] Adressen Manager Logic anfangen.
 
 # 01.11.202
-- [ ] Adressen Manager Logic fortführen.
-- [ ] Adressen Manager weitere Funktionen
+- [X] Adressen Manager Logic fortführen.
+- [X] Adressen Manager weitere Funktionen
+- [X] Promillerechner noch Optimiren
+
+# DSL-Nachweis
+Was haben sie mitgenommen? Hatten sie Probleme; wo?
+Ich habe nochmal repetiert, wie man UML-Diagramme liest und implementiert.
+Brauchen Sie Unterstützung; wo?
+Aktuell nicht.
+Erbringen Sie den Nachweis mit persönlichem Bezug (kritisch, differenziert, nicht generisch)
+Ich habe heute mich echt nochmal auf die LB 320 vorbereitet und geschaut, wo ich noch Lücken habe. Dort habe ich dann realisiert, dass ich nochmal UML anschauen sollte, was ich dann heute auch gemacht habe, mithilfe von dem Promillerechner.
+
+ 
