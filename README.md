@@ -20,8 +20,10 @@ Ein Adressen Manager.
 # DSL-Nachweis
 Was haben sie mitgenommen? Hatten sie Probleme; wo?
 Ich habe nochmal repetiert, wie man UML-Diagramme liest und implementiert.
+
 Brauchen Sie Unterstützung; wo?
 Aktuell nicht.
+
 Erbringen Sie den Nachweis mit persönlichem Bezug (kritisch, differenziert, nicht generisch)
 Ich habe heute mich echt nochmal auf die LB 320 vorbereitet und geschaut, wo ich noch Lücken habe. Dort habe ich dann realisiert, dass ich nochmal UML anschauen sollte, was ich dann heute auch gemacht habe, mithilfe von dem Promillerechner.
 
