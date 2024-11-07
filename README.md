@@ -19,12 +19,11 @@ Ein Adressen Manager.
 
 # DSL-Nachweis
 Was haben sie mitgenommen? Hatten sie Probleme; wo?
-Ich habe nochmal repetiert, wie man UML-Diagramme liest und implementiert.
+Ich habe mich heute intensiv auf die LB 320 vorbereitet und vor allem UML-Diagramme angeschaut, da ich dort noch nicht alles sicher verstanden habe. Dabei habe ich den Promillerechner als Beispiel benutzt, um zu üben, wie man UML-Diagramme liest und umsetzt.
 
 Brauchen Sie Unterstützung; wo?
 Aktuell nicht.
 
 Erbringen Sie den Nachweis mit persönlichem Bezug (kritisch, differenziert, nicht generisch)
-Ich habe heute mich echt nochmal auf die LB 320 vorbereitet und geschaut, wo ich noch Lücken habe. Dort habe ich dann realisiert, dass ich nochmal UML anschauen sollte, was ich dann heute auch gemacht habe, mithilfe von dem Promillerechner.
-
+Die Arbeit mit dem Promillerechner hat mir gezeigt, dass ich UML-Diagramme zwar theoretisch verstehe, aber noch üben muss, sie korrekt umzusetzen. Ich merke, dass ich bei Beziehungen wie Assoziation oder Komposition noch genauer hinsehen muss, um fehler zu vermeiden.
  
