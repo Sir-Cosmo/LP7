@@ -26,4 +26,9 @@ Aktuell nicht.
 
 Erbringen Sie den Nachweis mit persönlichem Bezug (kritisch, differenziert, nicht generisch)
 Die Arbeit mit dem Promillerechner hat mir gezeigt, dass ich UML-Diagramme zwar theoretisch verstehe, aber noch üben muss, sie korrekt umzusetzen. Ich merke, dass ich bei Beziehungen wie Assoziation oder Komposition noch genauer hinsehen muss, um fehler zu vermeiden.
+
+# 08.11.202
+- [ ] Modul 346 Repediton für OBA Prüfung
+- [ ] Modul 346 Repediton für OBA Prüfung
+- [ ] Modul 346 Repediton für OBA Prüfung
  
