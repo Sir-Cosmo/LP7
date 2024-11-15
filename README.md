@@ -33,7 +33,10 @@ Die Arbeit mit dem Promillerechner hat mir gezeigt, dass ich UML-Diagramme zwar 
 - [X] Modul 294 Repediton für OBA Prüfung
 
 # 15.11.2024
-- [ ] Modul 346 Repedition von der Woche
-- [ ] Website über Flugzeuge anfangen
-- [ ] JS funktionen in die Website einbauen.
- 
+- [X] Modul 346 Repedition von der Woche
+- [ ] Git
+
+# 22.11.2024
+- [ ] Git Repedition
+- [ ] HZ 4 Modul 346 nachholen
+- [ ] 294 Repedition
