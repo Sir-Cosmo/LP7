@@ -37,6 +37,12 @@ Die Arbeit mit dem Promillerechner hat mir gezeigt, dass ich UML-Diagramme zwar 
 - [ ] Git
 
 # 22.11.2024
-- [ ] Git Repedition
-- [ ] HZ 4 Modul 346 nachholen
-- [ ] 294 Repedition
+- [X] Git Repedition
+- [X] HZ 4 Modul 346 nachholen
+- [X] 294 Repedition
+
+# 29.11.2024
+- [ ] LB 346 am Projekt Arbeiten
+- [ ] LB 346 am Projekt Arbeiten
+- [ ] LB 346 am Projekt Arbeiten
+
