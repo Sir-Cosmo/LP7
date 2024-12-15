@@ -42,7 +42,23 @@ Die Arbeit mit dem Promillerechner hat mir gezeigt, dass ich UML-Diagramme zwar 
 - [X] 294 Repedition
 
 # 29.11.2024
-- [ ] LB 346 am Projekt Arbeiten
-- [ ] LB 346 am Projekt Arbeiten
-- [ ] LB 346 am Projekt Arbeiten
+- [X] LB 346 am Projekt Arbeiten
+- [X] LB 346 am Projekt Arbeiten
+- [X] LB 346 am Projekt Arbeiten
+
+# 06.12.2024
+- [X] LB 294 am Projekt Arbeiten
+- [X] LB 294 am Projekt Arbeiten
+- [X] LB 294 am Projekt Arbeiten
+
+# 13.12.2024
+- [X] Mit [exercism](https://exercism.org/) C# Basics wiederholen
+- [X] Mit [exercism](https://exercism.org/) C# Basics wiederholen
+- [X] Mit [exercism](https://exercism.org/) C# Basics wiederhole
+
+# 20.12.2024
+- [ ] Mit [exercism](https://exercism.org/) C# Basics wiederholen
+- [ ] Mit [exercism](https://exercism.org/) C# Basics wiederholen
+- [ ] Mit [exercism](https://exercism.org/) C# Basics wiederhole
+
 
